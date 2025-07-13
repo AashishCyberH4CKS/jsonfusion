@@ -3,6 +3,8 @@
 **JsonFusion** is a sleek, powerful, and interactive CLI tool designed to **merge multiple JSON files** with style and simplicity. It features a techno-themed interface, enhanced animations, emoji feedback, and flexible input modes — all tailored for developers and data engineers who want their tools to be efficient and beautiful.
 
 ---
+<img width="1333" height="649" alt="image" src="https://github.com/user-attachments/assets/55f4eb0f-7d8a-4ab5-a42a-c2f2ade06548" />
+
 
 ## 🔧 Features
 - 💜 **Enhanced ASCII Banner**
