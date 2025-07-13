@@ -41,7 +41,7 @@ $ python jsonfusion.py
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/jsonfusion.git
+git clone https://github.com/AashishCyberH4CKS/jsonfusion.git
 cd jsonfusion
 ```
 
