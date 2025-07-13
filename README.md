@@ -16,7 +16,7 @@
 
 ---
 
-## 📸 Demo Preview
+**## 📸 Demo Preview**
 
 ```bash
 $ python jsonfusion.py
@@ -28,7 +28,7 @@ $ python jsonfusion.py
 ---
 
 
-🖥️ Requirements
+**## 🖥️Requirements**
 
     Python 3.x
 
@@ -36,7 +36,7 @@ $ python jsonfusion.py
 ---
 
 
-🚀 How to Use
+**##🚀 How to Use**
 
     Clone the repo
 
@@ -61,6 +61,6 @@ When prompted, enter your desired output file name:
 
 Enter the filename to save merged JSON (e.g., netflix.json):
 
-🙋‍♂️ Author
+##🙋‍♂️ Author
 
 Made with ❤️ by Aashish_Cyber_H4CKS
