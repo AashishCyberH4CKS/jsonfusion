@@ -25,11 +25,16 @@ $ python jsonfusion.py
 📂 Merging: █████▒▒▒▒▒▒ 50%
 🎉 Successfully saved as netflix.json!
 
+---
+
+
 🖥️ Requirements
 
     Python 3.x
 
     Runs on Windows, Linux, or macOS (cross-platform)
+---
+
 
 🚀 How to Use
 
